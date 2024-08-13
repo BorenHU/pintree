@@ -1,0 +1,2291 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1693225448130,
+    "title": "收藏夹栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1612789303138,
+        "title": "财经",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1612789307425,
+            "title": "全球经济数据-中国金融信息网",
+            "icon": "https://logo.clearbit.com/dc.xinhua08.com",
+            "url": "http://dc.xinhua08.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1612789340601,
+            "title": "中国互联网络信息中心",
+            "icon": "https://logo.clearbit.com/www.cnnic.net.cn",
+            "url": "https://www.cnnic.net.cn/hlwfzyj/hlwxzbg/"
+          },
+          {
+            "type": "link",
+            "addDate": 1612789271886,
+            "title": "data.cfi.cn/cfidata.aspx",
+            "icon": "https://logo.clearbit.com/data.cfi.cn",
+            "url": "http://data.cfi.cn/cfidata.aspx"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1615486395286,
+        "title": "个人博客",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1572090825002,
+            "title": "阿里云控制台首页",
+            "icon": "https://logo.clearbit.com/homenew.console.aliyun.com",
+            "url": "https://homenew.console.aliyun.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1714122433885,
+            "title": "黑叔工具 | 集合10万款AI工具与插件导航网站",
+            "icon": "https://logo.clearbit.com/www.heishu.net",
+            "url": "https://www.heishu.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1710741977305,
+            "title": "使用文档 - 奈云",
+            "icon": "https://logo.clearbit.com/www.v2ny.co",
+            "url": "https://www.v2ny.co/index.php#/stage/knowledge"
+          },
+          {
+            "type": "link",
+            "addDate": 1711425078797,
+            "title": "一个 Vue 3 UI 框架 | Element Plus",
+            "icon": "https://logo.clearbit.com/element-plus.org",
+            "url": "https://element-plus.org/zh-CN/#/zh-CN"
+          },
+          {
+            "type": "link",
+            "addDate": 1608544013609,
+            "title": "猿驿",
+            "icon": "https://logo.clearbit.com/borenhu.gitee.io",
+            "url": "http://borenhu.gitee.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1711024129699,
+            "title": "指令 | Hexo",
+            "icon": "https://logo.clearbit.com/hexo.io",
+            "url": "https://hexo.io/zh-cn/docs/commands"
+          },
+          {
+            "type": "link",
+            "addDate": 1711101093224,
+            "title": "组件 | Element",
+            "icon": "https://logo.clearbit.com/element.eleme.cn",
+            "url": "https://element.eleme.cn/#/zh-CN/component/container"
+          },
+          {
+            "type": "link",
+            "addDate": 1711353419902,
+            "title": "Electron及混合应用自动化 · CukeTest帮助文档",
+            "icon": "https://logo.clearbit.com/www.cuketest.com",
+            "url": "https://www.cuketest.com/zh-cn/web/electron/"
+          },
+          {
+            "type": "link",
+            "addDate": 1711674112771,
+            "title": "GitHub - solstice23/argon-theme: 📖 Argon - 一个轻盈、简洁的 WordPress 主题",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/solstice23/argon-theme"
+          },
+          {
+            "type": "link",
+            "addDate": 1711023610577,
+            "title": "Hexo",
+            "icon": "https://logo.clearbit.com/hexo.io",
+            "url": "https://hexo.io/zh-cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1613568972025,
+            "title": "Volantis",
+            "icon": "https://logo.clearbit.com/volantis.js.org",
+            "url": "https://volantis.js.org/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1604384190503,
+        "title": "工具",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1715945273084,
+            "title": "导航网站",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1701230107267,
+                "title": "全栈工具 - 免费实用的在线工具网站",
+                "icon": "https://logo.clearbit.com/tools.qzxdp.cn",
+                "url": "https://tools.qzxdp.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1709793206635,
+                "title": "一起用AI | AI工具集 | 一起用AI",
+                "icon": "https://logo.clearbit.com/17yongai.com",
+                "url": "https://17yongai.com/aitools"
+              },
+              {
+                "type": "link",
+                "addDate": 1705975520382,
+                "title": "ACG导航网 - 二次元(ACGN)网站导航姬 ٩(๑>◡<๑)۶",
+                "icon": "https://logo.clearbit.com/www.acgdh.cc",
+                "url": "https://www.acgdh.cc/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1701252086895,
+            "title": "书",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1570454836632,
+                "title": "Open Access Library (OALib)",
+                "icon": "https://logo.clearbit.com/www.oalib.com",
+                "url": "http://www.oalib.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1715944718219,
+            "title": "娱乐",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715944731572,
+                "title": "七味 - 七味网",
+                "icon": "https://logo.clearbit.com/www.qwavi.com",
+                "url": "https://www.qwavi.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715945244484,
+                "title": "叛逆草 - 一个专注收集分享免费优质资源的导航网站！",
+                "icon": "https://logo.clearbit.com/www.pncao.com",
+                "url": "https://www.pncao.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1706787682629,
+                "title": "完本小说-笔趣阁",
+                "icon": "https://logo.clearbit.com/www.biqugen.net",
+                "url": "https://www.biqugen.net/quanben/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715949752552,
+                "title": "Sigma578关注-Sigma578关注UP主-哔哩哔哩视频",
+                "icon": "https://logo.clearbit.com/space.bilibili.com",
+                "url": "https://space.bilibili.com/367252456/fans/follow"
+              },
+              {
+                "type": "link",
+                "addDate": 1716112196074,
+                "title": "大漠叔叔投稿视频-大漠叔叔视频分享-哔哩哔哩视频",
+                "icon": "https://logo.clearbit.com/space.bilibili.com",
+                "url": "https://space.bilibili.com/67141499/video?tid=0&pn=3&keyword=&order=pubdate"
+              },
+              {
+                "type": "link",
+                "addDate": 1718029309319,
+                "title": "GAME IT-Tools",
+                "icon": "https://logo.clearbit.com/game.ittools.cc",
+                "url": "https://game.ittools.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718030429187,
+                "title": "可可影视_最新Netflix新剧_韩国电影免费在线观看",
+                "icon": "https://logo.clearbit.com/www.keke13.com",
+                "url": "https://www.keke13.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719582552865,
+                "title": "摸鱼专区 - 专区 - OSCHINA - 中文开源技术交流社区",
+                "icon": "https://logo.clearbit.com/www.oschina.net",
+                "url": "https://www.oschina.net/group/fishfish"
+              },
+              {
+                "type": "folder",
+                "addDate": 1720151433464,
+                "title": "魔法",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1720799465971,
+                    "title": "555电影_最新Netflix新剧_韩国电影免费在线观看",
+                    "icon": "https://logo.clearbit.com/5cinv.net",
+                    "url": "https://5cinv.net/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1721557320433,
+                "title": "About Netflix - Netflix 新片动态",
+                "icon": "https://logo.clearbit.com/about.netflix.com",
+                "url": "https://about.netflix.com/zh_cn/new-to-watch"
+              },
+              {
+                "type": "link",
+                "addDate": 1723470817909,
+                "title": "请稍候…",
+                "icon": "https://logo.clearbit.com/czzy.top",
+                "url": "https://czzy.top/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1701252111788,
+            "title": "自媒体",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1570463643934,
+                "title": "图文排版 - 秀米 XIUMI",
+                "icon": "https://logo.clearbit.com/xiumi.us",
+                "url": "https://xiumi.us/studio/v5#/paper/for/new/cube/0"
+              },
+              {
+                "type": "link",
+                "addDate": 1571622138663,
+                "title": "选择尺寸 - 设计 | Fotor懒设计",
+                "icon": "https://logo.clearbit.com/www.fotor.com.cn",
+                "url": "https://www.fotor.com.cn/app.html#/design"
+              },
+              {
+                "type": "link",
+                "addDate": 1571638822301,
+                "title": "soogif动图 - 免费的gif动态图片搜索引擎、在线制作压缩动图表情素材！",
+                "icon": "https://logo.clearbit.com/www.soogif.com",
+                "url": "https://www.soogif.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1571641910709,
+                "title": "免费logo在线制作-字体logo-logo设计-U钙网",
+                "icon": "https://logo.clearbit.com/www.uugai.com",
+                "url": "http://www.uugai.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1573186558830,
+                "title": "考拉新媒体导航——新媒体人的专属门户网站",
+                "icon": "https://logo.clearbit.com/www.kaolamedia.com",
+                "url": "https://www.kaolamedia.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1573184935117,
+                "title": "OfficePLUS，微软Office官方在线模板网站！",
+                "icon": "https://logo.clearbit.com/www.officeplus.cn",
+                "url": "http://www.officeplus.cn/Template/Home.shtml"
+              },
+              {
+                "type": "link",
+                "addDate": 1571926991767,
+                "title": "135编辑器官网-微信排版编辑器-微信公众号图文排版工具，好用素材多",
+                "icon": "https://logo.clearbit.com/www.135editor.com",
+                "url": "https://www.135editor.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1701252147119,
+            "title": "Other",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1573186334495,
+                "title": "彩虹屁生成器 | chp.shadiao.app",
+                "icon": "https://logo.clearbit.com/chp.shadiao.app",
+                "url": "https://chp.shadiao.app/?from_shadiao"
+              },
+              {
+                "type": "link",
+                "addDate": 1570101545252,
+                "title": "oeasy，会玩才会学。",
+                "icon": "https://logo.clearbit.com/oeasy.org",
+                "url": "http://oeasy.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1634294507861,
+                "title": "在线语音转文字—将视频或音频中的语音转换为文字",
+                "icon": "https://logo.clearbit.com/lightpdf.com",
+                "url": "https://lightpdf.com/zh/speech-to-text"
+              },
+              {
+                "type": "link",
+                "addDate": 1633701810553,
+                "title": "免费在线语音转文字功能，准确率高达90%，支持转换音视频文件",
+                "icon": "https://logo.clearbit.com/airmore.cn",
+                "url": "https://airmore.cn/speech-to-text-online"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1718862711022,
+            "title": "小红书 - 你的生活指南",
+            "icon": "https://logo.clearbit.com/www.xiaohongshu.com",
+            "url": "https://www.xiaohongshu.com/explore"
+          },
+          {
+            "type": "link",
+            "addDate": 1705977052199,
+            "title": "《中国大百科全书》第三版网络版",
+            "icon": "https://logo.clearbit.com/www.zgbk.com",
+            "url": "https://www.zgbk.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1709023420429,
+            "title": "欢迎 | DrissionPage",
+            "icon": "https://logo.clearbit.com/g1879.gitee.io",
+            "url": "https://g1879.gitee.io/drissionpagedocs/"
+          },
+          {
+            "type": "link",
+            "addDate": 1694677147740,
+            "title": "摩羯座今日运势 - 第一星座网",
+            "icon": "https://logo.clearbit.com/www.d1xz.net",
+            "url": "https://www.d1xz.net/yunshi/today/Capricorn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1704352963814,
+            "title": "企业信息查询-老板信息查询",
+            "icon": "https://logo.clearbit.com/www.dingtalk.com",
+            "url": "https://www.dingtalk.com/qidian/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1704175082234,
+            "title": "识图-谷歌识图搜索",
+            "icon": "https://logo.clearbit.com/gfsoso.99lb.net",
+            "url": "https://gfsoso.99lb.net/image.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1708936313141,
+            "title": "Kimi.ai - 帮你看更大的世界",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1716287295925,
+            "title": "钛媒体-打开科技 打开财富",
+            "icon": "https://logo.clearbit.com/www.tmtpost.com",
+            "url": "https://www.tmtpost.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1705385014086,
+            "title": "图片取色器/拾色器 | 菜鸟工具",
+            "icon": "https://logo.clearbit.com/c.runoob.com",
+            "url": "https://c.runoob.com/front-end/6214/#812648"
+          },
+          {
+            "type": "link",
+            "addDate": 1571926993474,
+            "title": "微信公众平台",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1921804278"
+          },
+          {
+            "type": "link",
+            "addDate": 1702973175241,
+            "title": "无远开发平台",
+            "icon": "https://logo.clearbit.com/wuyuan.io",
+            "url": "https://wuyuan.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1701846078189,
+            "title": "源码交易-源码商城-网站买卖 - 快云源码交易平台",
+            "icon": "https://logo.clearbit.com/www.yuanmajiaoyi.net",
+            "url": "https://www.yuanmajiaoyi.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1693908198354,
+            "title": "在线视频下载 - VideoFk",
+            "icon": "https://logo.clearbit.com/www.videofk.com",
+            "url": "https://www.videofk.com/zh-CN0492"
+          },
+          {
+            "type": "link",
+            "addDate": 1708306543969,
+            "title": "站酷总榜设计_创意作品榜_第355期-站酷ZCOOL",
+            "icon": "https://logo.clearbit.com/www.zcool.com.cn",
+            "url": "https://www.zcool.com.cn/top/index.do#tab_anchor"
+          },
+          {
+            "type": "link",
+            "addDate": 1705977522104,
+            "title": "长尾关键词挖掘_站长工具_智能改写 - 5118营销大数据",
+            "icon": "https://logo.clearbit.com/www.5118.com",
+            "url": "https://www.5118.com/?t=zhihu3"
+          },
+          {
+            "type": "link",
+            "addDate": 1705385519416,
+            "title": "AI 应用导航 | 菜鸟工具",
+            "icon": "https://logo.clearbit.com/c.runoob.com",
+            "url": "https://c.runoob.com/ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1705977266256,
+            "title": "B站视频下载工具 | 极简纯净",
+            "icon": "https://logo.clearbit.com/zhouql.vip",
+            "url": "https://zhouql.vip/bilibili/"
+          },
+          {
+            "type": "link",
+            "addDate": 1709795509146,
+            "title": "GitHub - chao325/QmaoTai: 抢茅台2023最新，京东抢茅台，淘宝抢茅台 QmaoTai",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/chao325/QmaoTai"
+          },
+          {
+            "type": "link",
+            "addDate": 1702955913148,
+            "title": "JSON在线解析及格式化验证 - JSON.cn",
+            "icon": "https://logo.clearbit.com/www.json.cn",
+            "url": "https://www.json.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1705386317133,
+            "title": "RGB转16进制工具 | 菜鸟工具",
+            "icon": "https://logo.clearbit.com/c.runoob.com",
+            "url": "https://c.runoob.com/front-end/55/"
+          },
+          {
+            "type": "link",
+            "addDate": 1693491122559,
+            "title": "The trusted source for IP address data, leading IP data provider - IPinfo.io",
+            "icon": "https://logo.clearbit.com/ipinfo.io",
+            "url": "https://ipinfo.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1715945996405,
+            "title": "tuteng/Best-websites-a-programmer-should-visit-zh: 程序员应该访问的最佳网站中文版",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1708673422767,
+            "title": "Visual search | Enterpix",
+            "icon": "https://logo.clearbit.com/www.enterpix.app",
+            "url": "https://www.enterpix.app/search/visual"
+          },
+          {
+            "type": "link",
+            "addDate": 1705977243968,
+            "title": "Yandex Images: search for images online, image search",
+            "icon": "https://logo.clearbit.com/yandex.com",
+            "url": "https://yandex.com/images/?utm_source=yandex&utm_medium=com&utm_campaign=morda"
+          },
+          {
+            "type": "link",
+            "addDate": 1719584306814,
+            "title": "IT Tools - Handy online tools for developers",
+            "icon": "https://logo.clearbit.com/zz.ittools.cc",
+            "url": "https://zz.ittools.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719805302110,
+            "title": "新榜——新媒体，找新榜",
+            "icon": "https://logo.clearbit.com/www.newrank.cn",
+            "url": "https://www.newrank.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721558122779,
+            "title": "受宠者 - 发现和评论 YouTube 频道",
+            "icon": "https://logo.clearbit.com/www.favoree.io",
+            "url": "https://www.favoree.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722521115153,
+            "title": "对话式 AI 平台 |卓越的客户体验从这里开始",
+            "icon": "https://logo.clearbit.com/rasa.com",
+            "url": "https://rasa.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1693294885639,
+        "title": "工作",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1715049332922,
+            "title": "光伏",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715049336515,
+                "title": "NREL/PV_ICE：v0.2.1 太阳能期货和光伏内燃机期刊发布",
+                "icon": "https://logo.clearbit.com/zenodo.org",
+                "url": "https://zenodo.org/records/5659151"
+              },
+              {
+                "type": "link",
+                "addDate": 1715049340514,
+                "title": "国家调查报告档案 - IEA-PVPS",
+                "icon": "https://logo.clearbit.com/iea-pvps.org",
+                "url": "https://iea-pvps.org/national-survey-reports/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715049345347,
+                "title": "PV ICE：循环经济工具中的光伏 |光伏研究 |NREL公司",
+                "icon": "https://logo.clearbit.com/www.nrel.gov",
+                "url": "https://www.nrel.gov/pv/pv-ice-tool.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1715050626121,
+                "title": "搜索结果",
+                "icon": "https://logo.clearbit.com/zenodo.org",
+                "url": "https://zenodo.org/search?q=parent.id%3A4324010&f=allversions%3Atrue&l=list&p=1&s=10&sort=version"
+              },
+              {
+                "type": "link",
+                "addDate": 1715051479703,
+                "title": "PV Data for PV ICE - Google 表格",
+                "icon": "https://logo.clearbit.com/docs.google.com",
+                "url": "https://docs.google.com/spreadsheets/d/1Ec5JRBSN2NFXjEABgUp1ch-EG6uQao8j5Rk1MLuZZYI/edit#gid=1274395117"
+              },
+              {
+                "type": "link",
+                "addDate": 1715051542774,
+                "title": "欢迎来到循环经济中的光伏工具文档！— PV ICE 0.1.0 文档",
+                "icon": "https://logo.clearbit.com/pv-ice.readthedocs.io",
+                "url": "https://pv-ice.readthedocs.io/en/latest/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715051840839,
+                "title": "pv-ice.readthedocs.io/_/downloads/en/stable/pdf/",
+                "icon": "https://logo.clearbit.com/pv-ice.readthedocs.io",
+                "url": "https://pv-ice.readthedocs.io/_/downloads/en/stable/pdf/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1700058474332,
+            "title": "机器学习",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1693294895376,
+                "title": "YoloVx",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1693294899782,
+                    "title": "yolov5ds-断点训练、继续训练、先终止训练并调整最终epoch（yolov5同样适用）_yolov5暂停训练_孟孟单单的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/LWD19981223/article/details/125887486"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1702114552603,
+                    "title": "YOLOV7断点续训和训练完成后增加epochs继续训练-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/vegetable0511/article/details/126065470"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1700461310370,
+                    "title": "YOLOV7详细解读（一）网络架构解读_江小皮不皮的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq128252/article/details/126673493?ops_request_misc=&request_id=&biz_id=102&utm_term=yolov7&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-126673493.142^v96^pc_search_result_base3&spm=1018.2226.3001.4187"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1700462732723,
+                    "title": "yolov7模型训练结果分析以及如何评估yolov7模型训练的效果_yolo训练结果_把爱留给SCI的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weixin_43397302/article/details/127073824?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170046271416800226540045%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170046271416800226540045&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-127073824-null-null.142^v96^pc_search_result_base3&utm_term=yolov7%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5&spm=1018.2226.3001.4187"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1700463578523,
+                    "title": "YOLOV7训练模型分析_yolo训练完的模型有啥用_enqueue、、的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weixin_46769840/article/details/130162471?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170046271416800226540045%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170046271416800226540045&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-130162471-null-null.142^v96^pc_search_result_base3&utm_term=yolov7%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5&spm=1018.2226.3001.4187"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1701087142116,
+                    "title": "【数据标注】YOLO 系列中 labelme 标记的 json 文件与 txt 互转_yolo标签文件-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/wsLJQian/article/details/131833725"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1701087391486,
+                    "title": "（深度学习）yolo坐标形式数据的扩充、与普通图片坐标系的转换、在原图上绘制目标框_yolo坐标转换_MissLemonh的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/MissLemonh/article/details/120641798"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1701140788978,
+                    "title": "目标检测之—非极大抑制(NMS)综述_非极大值抑制-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_25344301/article/details/120094530"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1701140863325,
+                    "title": "NMS（非极大值抑制）_无码不欢的我的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/m0_56192771/article/details/117432412"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1701140423389,
+                    "title": "初探NMS非极大值抑制 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/587225859?utm_id=0&wd=&eqid=d4bd7d9400003ac000000006648f18bf"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1701934615432,
+                    "title": "YOLOv7数据标注、环境配置、训练、预测、trt加速_买醉的古岚的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_46223426/article/details/131992684"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1702861182145,
+                    "title": "使用Yolov7遇到的一些问题的解决方法_yolov7需要大量训练内存-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/m0_54188335/article/details/126346899"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1704252145077,
+                    "title": "手把手调参最新 YOLOv7 模型 训练部分 - 最新版本（二）_yolov7 学习率调度-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_38668236/article/details/126566495"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1701931989430,
+                    "title": "Yolov7车道线检测 - 知乎",
+                    "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                    "url": "https://zhuanlan.zhihu.com/p/657224457"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1693464849707,
+                "title": "UNet",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1693464832220,
+                    "title": "U-Net学习笔记及Pytorch实战训练细节_t不以物喜不以己悲c的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/weixin_43977304/article/details/120948701"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693465621727,
+                    "title": "U-Net: Convolutional Network for Biomedical Image Segmentation 论文详解_神一般的路过的博客-CSDN博客",
+                    "icon": "https://logo.clearbit.com/blog.csdn.net",
+                    "url": "https://blog.csdn.net/qq_33665543/article/details/89518180"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1709796252580,
+                    "title": "Pytorch-UNet/train.py at master · milesial/Pytorch-UNet · GitHub",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/milesial/Pytorch-UNet/blob/master/train.py"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1700058476052,
+                "title": "Web services - Microsoft Machine Learning Studio (classic)",
+                "icon": "https://logo.clearbit.com/studio.azureml.net",
+                "url": "https://studio.azureml.net/Home/ViewWorkspaceCached/0c1158d45f1d4707b70a6de1ba3f31e4#Workspace/WebServiceGroups/listWebServiceGroups"
+              },
+              {
+                "type": "link",
+                "addDate": 1704624603605,
+                "title": "Tutorials — Matplotlib 3.8.2 documentation",
+                "icon": "https://logo.clearbit.com/matplotlib.org",
+                "url": "https://matplotlib.org/stable/tutorials/index"
+              },
+              {
+                "type": "link",
+                "addDate": 1706236354977,
+                "title": "NLP学习__task4：传统机器学习：朴素贝叶斯、SVM、PLSA、LDA_gensim plsa-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_39441762/article/details/88356998"
+              },
+              {
+                "type": "link",
+                "addDate": 1709020524797,
+                "title": "CycleGAN的基本原理以及Pytorch框架实现-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Keep_Trying_Go/article/details/130447595"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1696992386838,
+            "title": "面试",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1696992370046,
+                "title": "深度学习面试 刷题必备（CV版） - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/524391681"
+              },
+              {
+                "type": "link",
+                "addDate": 1696992181198,
+                "title": "【三年面试五年模拟】算法工程师的独孤九剑秘籍（前十二式汇总篇）V1版 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/601623786"
+              },
+              {
+                "type": "link",
+                "addDate": 1696987353580,
+                "title": "【Make YOLO Great Again】YOLOv1-v7全系列大解析（汇总篇）",
+                "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+                "url": "https://mp.weixin.qq.com/s?__biz=Mzg4NDYwOTUwNA==&mid=2247486017&idx=1&sn=ff028fa235f384fe74576ef346849600&chksm=cfb4d2cef8c35bd8726cdd3bc9664f2bc5edd1eaf3876e6ff60e523277461b43a57389621bc8&token=1199271157&lang=zh_CN#rd"
+              },
+              {
+                "type": "link",
+                "addDate": 1696732226535,
+                "title": "YOLOV7开源代码讲解--训练参数解释_yolov7代码_爱吃肉的鹏的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/z240626191s/article/details/126500617"
+              },
+              {
+                "type": "link",
+                "addDate": 1697015289148,
+                "title": "史上最全的深度学习面经总结（附答案详解）-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/lgzlgz3102/article/details/125419322"
+              },
+              {
+                "type": "link",
+                "addDate": 1697184727902,
+                "title": "Python面试题库_第1页_超级码客_国内最大的互联网IT面试题库",
+                "icon": "https://logo.clearbit.com/www.chaojimake.cn",
+                "url": "https://www.chaojimake.cn/question_class_16.html?bd_vid=8252131721263526563"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1701921208423,
+            "title": "爬虫",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1702897558018,
+                "title": "可信赖的软件外包服务 | 英选，用优秀的人，做优秀的产品",
+                "icon": "https://logo.clearbit.com/www.yingxuan.co",
+                "url": "https://www.yingxuan.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1702897590551,
+                "title": "开发邦 - 互联网软件定制开发与软件外包开发服务",
+                "icon": "https://logo.clearbit.com/www.kaifabang.com",
+                "url": "https://www.kaifabang.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1702897675402,
+                "title": "兼职程序员_程序员接私活_程序员兼职|外包平台-猿急送",
+                "icon": "https://logo.clearbit.com/www.yuanjisong.com",
+                "url": "https://www.yuanjisong.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1702897753473,
+                "title": "人人开发 - 集可视化开发，应用市场，威客众包，PaaS云于一体的企业级应用服务平台",
+                "icon": "https://logo.clearbit.com/www.rrkf.com",
+                "url": "http://www.rrkf.com/serv/request"
+              },
+              {
+                "type": "link",
+                "addDate": 1702897836056,
+                "title": "开源众包-百万开发者,为您提供专业的软件开发服务",
+                "icon": "https://logo.clearbit.com/zb.oschina.net",
+                "url": "https://zb.oschina.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1702897840642,
+                "title": "码易_企业应用商店_软件众包_软件服务_云市场_云课堂_云计算平台网站！",
+                "icon": "https://logo.clearbit.com/www.mayigeek.com",
+                "url": "https://www.mayigeek.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1702897871178,
+                "title": "猪八戒网(ZBJ.COM)-一站式企业服务，专业服务17年",
+                "icon": "https://logo.clearbit.com/www.zbj.com",
+                "url": "https://www.zbj.com/sem/index?pmcode=137535808&utm_source=bdpz&utm_medium=SEM"
+              },
+              {
+                "type": "link",
+                "addDate": 1701936863784,
+                "title": "领先的程序员自由远程工作平台-程序员客栈",
+                "icon": "https://logo.clearbit.com/www.proginn.com",
+                "url": "https://www.proginn.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1702898087090,
+                "title": "码市 - 互联网软件外包服务平台",
+                "icon": "https://logo.clearbit.com/www.codemart.com",
+                "url": "https://www.codemart.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1710309463719,
+            "title": "前端",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715302579348,
+                "title": "介绍 | vue-element-admin",
+                "icon": "https://logo.clearbit.com/panjiachen.github.io",
+                "url": "https://panjiachen.github.io/vue-element-admin-site/zh/guide/"
+              },
+              {
+                "type": "link",
+                "addDate": 1710309439915,
+                "title": "小白Vue3+Nginx实现部署_vue3 nginx-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Sumuxi9797926/article/details/128244978"
+              },
+              {
+                "type": "link",
+                "addDate": 1718329916914,
+                "title": "JSON在线 | JSON解析格式化—SO JSON在线工具",
+                "icon": "https://logo.clearbit.com/www.sojson.com",
+                "url": "https://www.sojson.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1710310926158,
+                "title": "vue06 Element-Plus的安装和使用_vue element plus-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_59122152/article/details/132139223"
+              },
+              {
+                "type": "link",
+                "addDate": 1710473467020,
+                "title": "介绍 | vue-element-admin",
+                "icon": "https://logo.clearbit.com/panjiachen.github.io",
+                "url": "https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%AE%89%E8%A3%85"
+              },
+              {
+                "type": "link",
+                "addDate": 1710473954286,
+                "title": "vue-cli项目中用json-sever搭建mock服务器，模拟本地json数据_linux服务器 后台启动,vue jsonserve的mock服务-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/LLDD2014425/article/details/79628523"
+              },
+              {
+                "type": "link",
+                "addDate": 1710475001265,
+                "title": "Vue3 + Vite + TypeScript + Element-Plus：从零到一构建企业级后台管理系统（前后端开源）_vue3 element plus admin-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/u013737132/article/details/130191394"
+              },
+              {
+                "type": "link",
+                "addDate": 1710656868638,
+                "title": "PanJiaChen/vue-admin-template: a vue2.0 minimal admin template",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/PanJiaChen/vue-admin-template?tab=readme-ov-file"
+              },
+              {
+                "type": "link",
+                "addDate": 1710731546829,
+                "title": "wolny/pytorch-3dunet: 3D U-Net model for volumetric semantic segmentation written in pytorch",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/wolny/pytorch-3dunet/tree/master"
+              },
+              {
+                "type": "link",
+                "addDate": 1710838172610,
+                "title": "性能版范例-比例尺控件",
+                "icon": "https://logo.clearbit.com/map.sgcc.com.cn",
+                "url": "https://map.sgcc.com.cn/products/js-sdk/v3/example.html?t=capability#map/mapControl/scaleControl"
+              },
+              {
+                "type": "link",
+                "addDate": 1710840476894,
+                "title": "思极地图",
+                "icon": "https://logo.clearbit.com/map.sgcc.com.cn",
+                "url": "https://map.sgcc.com.cn/#/queryType=poi&coordinates=ygtrFmxzeU&zoom=11.258033822078348"
+              },
+              {
+                "type": "link",
+                "addDate": 1710929400771,
+                "title": "目录结构 | PPX",
+                "icon": "https://logo.clearbit.com/blog.pangao.vip",
+                "url": "https://blog.pangao.vip/docs-ppx/guide/basics/tree.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1711014629760,
+                "title": "AI研究所 - 国内外AI工具首发站",
+                "icon": "https://logo.clearbit.com/www.aiyjs.com",
+                "url": "https://www.aiyjs.com/#"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1700468755751,
+            "title": "Ai",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1700468755751,
+                "title": "绘画",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1700469598095,
+                    "title": "Create an Image - Playground",
+                    "icon": "https://logo.clearbit.com/playgroundai.com",
+                    "url": "https://playgroundai.com/create?"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1700468805464,
+                    "title": "堆友—多风格AI绘画神器免费生成；多功能AI工具箱集结助力；3D素材在线渲染，免费商用；各类创意设计大赛，等你来战！",
+                    "icon": "https://logo.clearbit.com/d.design",
+                    "url": "https://d.design/?from=bdaizh"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1708675926560,
+                    "title": "AnimeGANv3: A Novel Double-Tail Generative Adversarial Network for Fast Photo Animation",
+                    "icon": "https://logo.clearbit.com/tachibanayoshino.github.io",
+                    "url": "https://tachibanayoshino.github.io/AnimeGANv3/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1708676296916,
+                    "title": "AnimeGANv2 - a Hugging Face Space by akhaliq",
+                    "icon": "https://logo.clearbit.com/huggingface.co",
+                    "url": "https://huggingface.co/spaces/akhaliq/AnimeGANv2"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1701944065982,
+                    "title": "Civitai: The Home of Open-Source Generative AI",
+                    "icon": "https://logo.clearbit.com/civitai.com",
+                    "url": "https://civitai.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1701844988556,
+                    "title": "MiracleVision奇想智能-懂美学的AI视觉大模型",
+                    "icon": "https://logo.clearbit.com/www.miraclevision.com",
+                    "url": "http://www.miraclevision.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1708678408516,
+                    "title": "图像风格迁移模型-CycleGAN-使用文档-PaddlePaddle深度学习平台",
+                    "icon": "https://logo.clearbit.com/www.paddlepaddle.org.cn",
+                    "url": "https://www.paddlepaddle.org.cn/documentation/docs/zh/practices/gan/cyclegan/cyclegan.html"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1716445919257,
+                "title": "咨讯",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1695735299106,
+                    "title": "What is Gradient Accumulation in Deep Learning? | by Raz Rotenberg | Towards Data Science",
+                    "icon": "https://logo.clearbit.com/towardsdatascience.com",
+                    "url": "https://towardsdatascience.com/what-is-gradient-accumulation-in-deep-learning-ec034122cfa"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1700468825063,
+                "title": "AI Player",
+                "icon": "https://logo.clearbit.com/www.aaaaa.ai",
+                "url": "https://www.aaaaa.ai/pc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1700471454066,
+                "title": "国内外人工智能AI工具网站大全（一键收藏，应有尽有）_AhcaoZhu的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Ahcao2008/article/details/130044743?spm=1001.2100.3001.7377&utm_medium=distribute.pc_feed_blog_category.none-task-blog-classify_tag-8-130044743-null-null.nonecase&depth_1-utm_source=distribute.pc_feed_blog_category.none-task-blog-classify_tag-8-130044743-null-null.nonecase"
+              },
+              {
+                "type": "link",
+                "addDate": 1701845193684,
+                "title": "AI工具-人工智能软件ChatGPT",
+                "icon": "https://logo.clearbit.com/ai.spsa.cn",
+                "url": "https://ai.spsa.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1701845300317,
+                "title": "Durable AI Website Builder and Small Business Software",
+                "icon": "https://logo.clearbit.com/durable.co",
+                "url": "https://durable.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1701845389420,
+                "title": "【官网】万兴播爆-数字人短视频营销神器",
+                "icon": "https://logo.clearbit.com/virbo.wondershare.cn",
+                "url": "https://virbo.wondershare.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1701845731460,
+                "title": "教程/Tutorial – CodeFormer ®",
+                "icon": "https://logo.clearbit.com/www.codeformer.cn",
+                "url": "https://www.codeformer.cn/index.php/category/%e6%95%99%e7%a8%8b/"
+              },
+              {
+                "type": "link",
+                "addDate": 1701846891231,
+                "title": "通义",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1701846935960,
+                "title": "文心一言",
+                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                "url": "https://yiyan.baidu.com/welcome"
+              },
+              {
+                "type": "link",
+                "addDate": 1701847129264,
+                "title": "首页 - 智造喵",
+                "icon": "https://logo.clearbit.com/chat.plexpt.com",
+                "url": "https://chat.plexpt.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1701847224543,
+                "title": "AI工具-AI工具",
+                "icon": "https://logo.clearbit.com/ai.spsa.cn",
+                "url": "https://ai.spsa.cn/category/aigongju"
+              },
+              {
+                "type": "link",
+                "addDate": 1701943884350,
+                "title": "秒出办公，10秒做出PPT",
+                "icon": "https://logo.clearbit.com/ppt.weixiu777.com",
+                "url": "https://ppt.weixiu777.com/pptx/edit/workspace"
+              },
+              {
+                "type": "link",
+                "addDate": 1709020890829,
+                "title": "HelloGitHub｜详情",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/76b9c82871fb4ef3806813a4578f69aa"
+              },
+              {
+                "type": "link",
+                "addDate": 1709791860847,
+                "title": "Sora AI 视频生成器 | Sora.FM",
+                "icon": "https://logo.clearbit.com/sora.fm",
+                "url": "https://sora.fm/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1709792089260,
+                "title": "Rochat - Engage with AI Characters in Real-Time",
+                "icon": "https://logo.clearbit.com/rochat.ai",
+                "url": "https://rochat.ai/explore"
+              },
+              {
+                "type": "link",
+                "addDate": 1709792972415,
+                "title": "AI 产品榜 aicpb.com - 飞书云文档",
+                "icon": "https://logo.clearbit.com/dnipkggqxh.feishu.cn",
+                "url": "https://dnipkggqxh.feishu.cn/wiki/YTIUwM6Vmij4IQkSm9PctPWunIb"
+              },
+              {
+                "type": "link",
+                "addDate": 1709792986547,
+                "title": "大厂AI实践",
+                "icon": "https://logo.clearbit.com/www.yuque.com",
+                "url": "https://www.yuque.com/wikidesign/vngzgk"
+              },
+              {
+                "type": "link",
+                "addDate": 1708938126967,
+                "title": "Stability AI Image Models — Stability AI",
+                "icon": "https://logo.clearbit.com/stability.ai",
+                "url": "https://stability.ai/stable-image"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1715846921716,
+            "title": "ArcGis",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715763053555,
+                "title": "ArcGIS API for Python",
+                "icon": "https://logo.clearbit.com/developers.arcgis.com",
+                "url": "https://developers.arcgis.com/python/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715829561698,
+                "title": "ArcGIS Pro2.5 安装版（亲测可行） - 木谨乐年 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/ljy632123/p/14964319.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1715845051048,
+                "title": "ArcGIS Pro3.0.2_免费高速下载|百度网盘-分享无限制",
+                "icon": "https://logo.clearbit.com/pan.baidu.com",
+                "url": "https://pan.baidu.com/s/1ZEQdiG68QEUEy6plGN1CJA?pwd=r495#list/path=%2F&parentPath=%2Fsharelink1100337545658-406267250048038"
+              },
+              {
+                "type": "link",
+                "addDate": 1715845669040,
+                "title": "「GIS教程」ArcGIS Pro 3.2 正版完整安装教程（详细图文+汉化） | 麻辣GIS",
+                "icon": "https://logo.clearbit.com/malagis.com",
+                "url": "https://malagis.com/arcgis-pro-3-2-complete-installation-tutorial.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1715846847081,
+                "title": "ArcGIS Pro 3.1 完整安装包（含中文语言包）下载 | 麻辣GIS",
+                "icon": "https://logo.clearbit.com/malagis.com",
+                "url": "https://malagis.com/arcgis-pro-3-1-full-installation-package.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1715851569641,
+                "title": "Building Footprint Extraction - China - 概述",
+                "icon": "https://logo.clearbit.com/www.arcgis.com",
+                "url": "https://www.arcgis.com/home/item.html?id=fdfc8a925af740a5a4b01061a2d01d09"
+              },
+              {
+                "type": "link",
+                "addDate": 1715855274662,
+                "title": "ArcGIS Living Atlas of the World",
+                "icon": "https://logo.clearbit.com/livingatlas.arcgis.com",
+                "url": "https://livingatlas.arcgis.com/en/home/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715855332150,
+                "title": "ArcGIS Living Atlas of the World",
+                "icon": "https://logo.clearbit.com/livingatlas.arcgis.com",
+                "url": "https://livingatlas.arcgis.com/en/browse/?q=Building%20Footprint%20Extraction#q=Building+Footprint+Extraction&d=2"
+              },
+              {
+                "type": "link",
+                "addDate": 1715927849055,
+                "title": "使用深度学习预训练模型检测物体 | Learn ArcGIS",
+                "icon": "https://logo.clearbit.com/learn.arcgis.com",
+                "url": "https://learn.arcgis.com/zh-cn/projects/detect-objects-with-a-deep-learning-pretrained-model/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715930766764,
+                "title": "使用QGIS提取天地图遥感影像中的建筑物轮廓，及AI方案_qgis 天地图-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/cky_123/article/details/121563722"
+              },
+              {
+                "type": "link",
+                "addDate": 1715931349019,
+                "title": "项目首页 - GitCode",
+                "icon": "https://logo.clearbit.com/gitcode.com",
+                "url": "https://gitcode.com/mapbox/robosat?utm_source=csdn_github_accelerator&isLogin=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1715931350898,
+                "title": "项目首页 - GitCode",
+                "icon": "https://logo.clearbit.com/gitcode.com",
+                "url": "https://gitcode.com/liii18/robosat_buildings_training/?utm_source=csdn_github_accelerator&isLogin=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1716170034547,
+                "title": "robosat调试-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/CsdnWujinming/article/details/113404303"
+              },
+              {
+                "type": "link",
+                "addDate": 1716945626293,
+                "title": "Robosat: 航空和卫星图像的语义分割。提取特征，例如：建筑物、停车场、道路、水、云 - 我爱学习网",
+                "icon": "https://logo.clearbit.com/www.5axxw.com",
+                "url": "https://www.5axxw.com/wiki/content/43drqw"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1711934789955,
+            "title": "Odoo",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1711934771531,
+                "title": "Download | Odoo",
+                "icon": "https://logo.clearbit.com/www.odoo.com",
+                "url": "https://www.odoo.com/zh_CN/page/download"
+              },
+              {
+                "type": "link",
+                "addDate": 1711933995518,
+                "title": "本地 — Odoo 17.0 文档",
+                "icon": "https://logo.clearbit.com/www.odoo.com",
+                "url": "https://www.odoo.com/documentation/17.0/administration/on_premise.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1711943098952,
+                "title": "odoo/odoo: Odoo. Open Source Apps To Grow Your Business.",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/odoo/odoo"
+              },
+              {
+                "type": "link",
+                "addDate": 1711946769472,
+                "title": "PostgreSQL下载安装|Windows上安装PostgreSQL-立地货",
+                "icon": "https://logo.clearbit.com/www.lidihuo.com",
+                "url": "https://www.lidihuo.com/postgresql/postgresql-install.html#google_vignette"
+              },
+              {
+                "type": "link",
+                "addDate": 1711970143266,
+                "title": "Odoo",
+                "icon": "https://logo.clearbit.com/localhost",
+                "url": "http://localhost:8069/web/database/selector"
+              },
+              {
+                "type": "link",
+                "addDate": 1712043825661,
+                "title": "Odoo Documentation — Odoo 17.0 documentation",
+                "icon": "https://logo.clearbit.com/www.odoo.com",
+                "url": "https://www.odoo.com/documentation/17.0/"
+              },
+              {
+                "type": "link",
+                "addDate": 1712476990963,
+                "title": "The Sol Patch | Hi-MO 5 LR5-72HBD 540-560M | 太阳能（光伏）组件数据 | 易恩孚光伏组件名录",
+                "icon": "https://logo.clearbit.com/www.enf.com.cn",
+                "url": "https://www.enf.com.cn/pv/panel-datasheet/crystalline/58989"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1700104907052,
+            "title": "opencv",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1700098669927,
+                "title": "【精选】基于OpenCV训练口罩检测数据集并测试_opencv训练数据集_Clichong的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_44751294/article/details/123115913"
+              },
+              {
+                "type": "link",
+                "addDate": 1700043532802,
+                "title": "opencv中haar级联分类器的所有XML下载_opencv级联器下载-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/m0_46498587/article/details/109550943"
+              },
+              {
+                "type": "link",
+                "addDate": 1700043363459,
+                "title": "【精选】【OpenCV】 级联分类器训练模型_chenruhan_QAQ_的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/m0_56051805/article/details/126132913"
+              },
+              {
+                "type": "link",
+                "addDate": 1700039895958,
+                "title": "【精选】opencv(11):训练自己的opencv级联分类器_opencv级联分类器 程序 工具-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/BIT_HXZ/article/details/124992751"
+              },
+              {
+                "type": "link",
+                "addDate": 1700038647930,
+                "title": "[脚本] 用OpenCV的级联分类器一键训练自己的目标检测数据集_训练级联分类器_Z_MiCTrue的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/m0_57193659/article/details/124450430"
+              },
+              {
+                "type": "link",
+                "addDate": 1700038484515,
+                "title": "OpenCV - 开放计算机视觉库",
+                "icon": "https://logo.clearbit.com/opencv.org",
+                "url": "https://opencv.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1700472490116,
+                "title": "全网最详细SIFT算法原理实现_改进sift算法流程图_Tc.小浩的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_48167570/article/details/123704075?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170047159616800188523008%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170047159616800188523008&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-123704075-null-null.142^v96^pc_search_result_base3&utm_term=SIFT&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1700472618132,
+                "title": "3D视觉(四)：ORB特征提取与匹配_orb特征匹配_X_Student737的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Twilight737/article/details/121860262?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170047257816800185867288%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170047257816800185867288&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-121860262-null-null.142^v96^pc_search_result_base3&utm_term=orb&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1700472662363,
+                "title": "【精选】python+OpenCV笔记（三十五）：特征匹配——基于FLANN的匹配、基于FLANN进行单应性匹配_cv2.flannbasedmatcher-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_45832961/article/details/122776322?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170047264516800225578215%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170047264516800225578215&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-122776322-null-null.142^v96^pc_search_result_base3&utm_term=FLANN&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1700472680863,
+                "title": "【精选】机器视觉：ransac算法详解_无水先生的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/gongdiwudu/article/details/112789674?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170047267716800184115176%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170047267716800184115176&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-112789674-null-null.142^v96^pc_search_result_base3&utm_term=RANSAC&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1700473049555,
+                "title": "RANSAC算法（仅供学习使用）_RPCR的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/z377989129/article/details/129658581?ops_request_misc=&request_id=&biz_id=102&utm_term=RANSAC&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-129658581.142^v96^pc_search_result_base3&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1700473292531,
+                "title": "KNN算法原理及python实现_knn算法原理以及python实现-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_45137294/article/details/123776746?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170047327716800227498415%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170047327716800227498415&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-123776746-null-null.142^v96^pc_search_result_base3&utm_term=knn%E7%AE%97%E6%B3%95&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1700727016223,
+                "title": "HoughLinesP参数设置（看完还不会你砍死我！！！）-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Li_haiyu/article/details/106397532?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170072700216800225558201%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170072700216800225558201&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-106397532-null-null.142^v96^pc_search_result_base5&utm_term=houghlinesp%E5%8F%82%E6%95%B0%E8%AE%BE%E7%BD%AE&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1700473363045,
+                "title": "实战：基于霍夫变换进行线检测_机器学习算法那些事的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/algorithmPro/article/details/115499827?ops_request_misc=&request_id=&biz_id=102&utm_term=%E9%9C%8D%E5%A4%AB%E5%8F%98%E6%8D%A2%E6%A3%80%E6%B5%8B%E6%9B%B2%E7%BA%BF&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-115499827.142^v96^pc_search_result_base3&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1700473431030,
+                "title": "霍夫变换检测直线原理及实例-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_43491924/article/details/85044178?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170047331416800192252276%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=170047331416800192252276&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-23-85044178-null-null.142^v96^pc_search_result_base3&utm_term=%E9%9C%8D%E5%A4%AB%E5%8F%98%E6%8D%A2%E6%A3%80%E6%B5%8B%E6%9B%B2%E7%BA%BF&spm=1018.2226.3001.4187"
+              },
+              {
+                "type": "link",
+                "addDate": 1700538237793,
+                "title": "OpenCV实现手势音量控制-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_51390582/article/details/134218385?spm=1000.2115.3001.6382&utm_medium=distribute.pc_feed_v2.none-task-blog-yuanlijihua_tag_v1-2-134218385-null-null.pc_personrec&depth_1-utm_source=distribute.pc_feed_v2.none-task-blog-yuanlijihua_tag_v1-2-134218385-null-null.pc_personrec"
+              },
+              {
+                "type": "link",
+                "addDate": 1701918336460,
+                "title": "Hough变换原理-直线检测_hough变换检测直线原理-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/xian0710830114/article/details/124950204"
+              },
+              {
+                "type": "link",
+                "addDate": 1701917421755,
+                "title": "基于YOLOv5+Hough变换的目标检测和车道线检测_yolo车道线检测_Fr0mdeepsea的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/Thinkin9/article/details/128689082"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1696746556581,
+            "title": "python",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1696746558007,
+                "title": "HelloGitHub｜编程语言排名",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/report/tiobe/"
+              },
+              {
+                "type": "link",
+                "addDate": 1696746570916,
+                "title": "TIOBE Index - TIOBE",
+                "icon": "https://logo.clearbit.com/www.tiobe.com",
+                "url": "https://www.tiobe.com/tiobe-index/"
+              },
+              {
+                "type": "link",
+                "addDate": 1700470113362,
+                "title": "10个Python实战编程项目，有趣又好玩_python趣味编程10例_我爱Python数据挖掘的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_38037405/article/details/123088886?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170047005916800226532991%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170047005916800226532991&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-123088886-null-null.142^v96^pc_search_result_base3&utm_term=python%E9%A1%B9%E7%9B%AE&spm=1018.2226.3001.4187"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1693623643889,
+            "title": "wandb",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1693552716134,
+                "title": "W&B 服务器 |权重和偏差文档",
+                "icon": "https://logo.clearbit.com/docs.wandb.ai",
+                "url": "https://docs.wandb.ai/guides/hosting"
+              },
+              {
+                "type": "link",
+                "addDate": 1693556291440,
+                "title": "wandb使用教程(四)：wandb本地部署 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/521663928"
+              },
+              {
+                "type": "link",
+                "addDate": 1693623653855,
+                "title": "WandB 本地服务器部署 | LumiOwO 的博客",
+                "icon": "https://logo.clearbit.com/lumiowo.github.io",
+                "url": "https://lumiowo.github.io/2023/03/27/WandB-%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2/"
+              },
+              {
+                "type": "link",
+                "addDate": 1705473365028,
+                "title": "Home – Weights & Biases",
+                "icon": "https://logo.clearbit.com/192.168.1.238",
+                "url": "http://192.168.1.238:8578/home"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1701920877565,
+            "title": "Web框架",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1701920902796,
+                "title": "Sanic 是什么？从原理到实践，全面解析 Sanic 框架的奥秘_Apifox.的博客-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/m0_71808387/article/details/131975829"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1713430172503,
+            "title": "登录 · 极狐GitLab",
+            "icon": "https://logo.clearbit.com/gitlab.miua.cn",
+            "url": "https://gitlab.miua.cn:445/users/sign_in"
+          },
+          {
+            "type": "link",
+            "addDate": 1700812373316,
+            "title": "录制文件",
+            "icon": "https://logo.clearbit.com/meeting.tencent.com",
+            "url": "https://meeting.tencent.com/user-center/shared-record-info?id=473b1f32-f0ff-4f4a-a936-63c70464751a&from=3"
+          },
+          {
+            "type": "link",
+            "addDate": 1716286710471,
+            "title": "上海",
+            "icon": "https://logo.clearbit.com/spacenet.ai",
+            "url": "https://spacenet.ai/shanghai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1700144928112,
+            "title": "神经网络游乐场",
+            "icon": "https://logo.clearbit.com/playground.tensorflow.org",
+            "url": "https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.84716&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false"
+          },
+          {
+            "type": "link",
+            "addDate": 1693639430246,
+            "title": "BonckCloud",
+            "icon": "https://logo.clearbit.com/cloud.miua.cn",
+            "url": "http://cloud.miua.cn:8090/bonck/index.html#/folders?fileId=216&fileName=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0"
+          },
+          {
+            "type": "link",
+            "addDate": 1708939478692,
+            "title": "cssmagic/Awesome-AI: 收集分享 AI 大型语言模型 (LLM)、AI 辅助编程、AI 绘画等领域的常用资料，探索生成式 AI 的应用与开发。",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/cssmagic/Awesome-AI?tab=readme-ov-file"
+          },
+          {
+            "type": "link",
+            "addDate": 1701229764945,
+            "title": "Docker 教程 | 全栈教程 | 全栈行动派",
+            "icon": "https://logo.clearbit.com/tut.qzxdp.cn",
+            "url": "https://tut.qzxdp.cn/docker/docker-tutorial.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1716448230538,
+            "title": "Geofabrik 下载服务器",
+            "icon": "https://logo.clearbit.com/download.geofabrik.de",
+            "url": "https://download.geofabrik.de/asia/china.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1713529370372,
+            "title": "Javascript API | pywebview",
+            "icon": "https://logo.clearbit.com/pywebview.flowrl.com",
+            "url": "https://pywebview.flowrl.com/3.7/examples/js_api.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1702460476551,
+            "title": "Kyros.ai",
+            "icon": "https://logo.clearbit.com/www.kyros.ai",
+            "url": "https://www.kyros.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1708934664213,
+            "title": "NARI数字南瑞",
+            "icon": "https://logo.clearbit.com/d-nari.sgepri.sgcc.com.cn",
+            "url": "https://d-nari.sgepri.sgcc.com.cn/portal-ui/"
+          },
+          {
+            "type": "link",
+            "addDate": 1700559655766,
+            "title": "Python3 列表 | 菜鸟教程",
+            "icon": "https://logo.clearbit.com/www.runoob.com",
+            "url": "https://www.runoob.com/python3/python3-list.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1719583341681,
+            "title": "开源软件 - OSCHINA - 中文开源技术交流社区",
+            "icon": "https://logo.clearbit.com/www.oschina.net",
+            "url": "https://www.oschina.net/project"
+          },
+          {
+            "type": "link",
+            "addDate": 1719891039475,
+            "title": "国家电网有限公司",
+            "icon": "https://logo.clearbit.com/www.sgcc.com.cn",
+            "url": "http://www.sgcc.com.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720351870264,
+            "title": "某士兵-92资源站-IT学习网-每日更新",
+            "icon": "https://logo.clearbit.com/www.92ydl.com",
+            "url": "https://www.92ydl.com/msb"
+          },
+          {
+            "type": "folder",
+            "addDate": 1722827950347,
+            "title": "Rasa",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1722827956761,
+                "title": "《Ai企业知识库》rasa项目-项目启动命令集-开放api接口启动以及保证多轮对话！！_rasa api-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/weixin_72186894/article/details/139300516"
+              },
+              {
+                "type": "link",
+                "addDate": 1722830360687,
+                "title": "10.1 如何调试 Rasa - Rasa 实战：构建开源对话机器人 - 开发文档 - 文江博客",
+                "icon": "https://logo.clearbit.com/www.wenjiangs.com",
+                "url": "https://www.wenjiangs.com/doc/5df967ca-633f7ef8"
+              },
+              {
+                "type": "link",
+                "addDate": 1722868326087,
+                "title": "rasa使用教程_rasa框架基本使用教程-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/lwx666sl/article/details/135756894"
+              },
+              {
+                "type": "link",
+                "addDate": 1722868433708,
+                "title": "Rasa 社区论坛",
+                "icon": "https://logo.clearbit.com/forum.rasa.com",
+                "url": "https://forum.rasa.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722870275397,
+                "title": "Rasa3.0框架使用教程 - 知乎",
+                "icon": "https://logo.clearbit.com/www.zhihu.com",
+                "url": "https://www.zhihu.com/column/c_1657706728916647936"
+              },
+              {
+                "type": "link",
+                "addDate": 1722871116486,
+                "title": "Rasa Web Chatbot",
+                "icon": "https://logo.clearbit.com/localhost",
+                "url": "http://localhost:8000/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722873366635,
+                "title": "Rasa网页部署以及和LLM的结合_rasa llm-CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_29837229/article/details/137226993"
+              },
+              {
+                "type": "link",
+                "addDate": 1722929874062,
+                "title": "对话机器人 Rasa 中文系列教程 - AI - 大象笔记",
+                "icon": "https://logo.clearbit.com/www.sunzhongwei.com",
+                "url": "https://www.sunzhongwei.com/rasa-chinese-dialogue-robot-series-tutorial"
+              },
+              {
+                "type": "link",
+                "addDate": 1723019000833,
+                "title": "Easy Solar Supply",
+                "icon": "https://logo.clearbit.com/www.easysolarsupply.com",
+                "url": "https://www.easysolarsupply.com/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1723087725312,
+                "title": "山东沐阳新能源有限公司官网_空气能_太阳能_光伏",
+                "icon": "https://logo.clearbit.com/www.muyangsolar.com",
+                "url": "http://www.muyangsolar.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723088027462,
+                "title": "SUNGROW - 阳光电源 - 让人人享用清洁电力",
+                "icon": "https://logo.clearbit.com/cn.sungrowpower.com",
+                "url": "https://cn.sungrowpower.com/#page1"
+              },
+              {
+                "type": "link",
+                "addDate": 1723517134892,
+                "title": "SUNGROW - 阳光电源 - 让人人享用清洁电力",
+                "icon": "https://logo.clearbit.com/cn.sungrowpower.com",
+                "url": "https://cn.sungrowpower.com/#page3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1632641667095,
+        "title": "官网",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1626613767178,
+            "title": "报名选择省份 - 中国教育考试网",
+            "icon": "https://logo.clearbit.com/ntce.neea.edu.cn",
+            "url": "http://ntce.neea.edu.cn/html1/folder/16013/15-1.htm"
+          },
+          {
+            "type": "link",
+            "addDate": 1707006696501,
+            "title": "江苏省人民政府 政府工作报告全文 政府工作报告",
+            "icon": "https://logo.clearbit.com/www.jiangsu.gov.cn",
+            "url": "https://www.jiangsu.gov.cn/art/2024/1/29/art_90107_11138066.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1648109349344,
+            "title": "全国大学英语四、六级考试(CET) - 中国教育考试网",
+            "icon": "https://logo.clearbit.com/cet.neea.edu.cn",
+            "url": "https://cet.neea.edu.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1693454276556,
+            "title": "全国计算机技术与软件专业技术资格（水平）考试",
+            "icon": "https://logo.clearbit.com/bm.ruankao.org.cn",
+            "url": "https://bm.ruankao.org.cn/sign/welcome"
+          },
+          {
+            "type": "link",
+            "addDate": 1632641690664,
+            "title": "中华人民共和国工业和信息化部",
+            "icon": "https://logo.clearbit.com/www.miit.gov.cn",
+            "url": "https://www.miit.gov.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1716791269998,
+            "title": "中华人民共和国人力资源和社会保障部",
+            "icon": "https://logo.clearbit.com/www.mohrss.gov.cn",
+            "url": "http://www.mohrss.gov.cn/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1627477544118,
+        "title": "考研",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1627479253562,
+            "title": "(10 条消息) 考研的具体流程是什么样的？ - 知乎",
+            "icon": "https://logo.clearbit.com/www.zhihu.com",
+            "url": "https://www.zhihu.com/question/265779057/answer/1596436034"
+          },
+          {
+            "type": "link",
+            "addDate": 1627479247251,
+            "title": "(10 条消息) 考研如何确定学校？ - 知乎",
+            "icon": "https://logo.clearbit.com/www.zhihu.com",
+            "url": "https://www.zhihu.com/question/265595875/answer/1721800056"
+          },
+          {
+            "type": "link",
+            "addDate": 1627479010807,
+            "title": "2021考研_考研报名_考研成绩查询_考研国家线_研究生专业目录_招生简章-中国教育在线考研频道",
+            "icon": "https://logo.clearbit.com/kaoyan.eol.cn",
+            "url": "https://kaoyan.eol.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1627477561264,
+            "title": "南京大学",
+            "icon": "https://logo.clearbit.com/www.nju.edu.cn",
+            "url": "https://www.nju.edu.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1627479032384,
+            "title": "评估评审_中国学位与研究生教育信息网",
+            "icon": "https://logo.clearbit.com/www.cdgdc.edu.cn",
+            "url": "http://www.cdgdc.edu.cn/xwyyjsjyxx/zlpj/"
+          },
+          {
+            "type": "link",
+            "addDate": 1630821086000,
+            "title": "新编大学计算机基础—智慧树网",
+            "icon": "https://logo.clearbit.com/coursehome.zhihuishu.com",
+            "url": "http://coursehome.zhihuishu.com/courseHome/1000007302#teachTeam"
+          },
+          {
+            "type": "link",
+            "addDate": 1627478911962,
+            "title": "中国研究生招生信息网",
+            "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+            "url": "https://yz.chsi.com.cn/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1604384190510,
+        "title": "软考",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1629600569012,
+            "title": "51CTO学堂_专业的IT技能学习平台|自学网络视频教程|IT在线培训课程|Python|大数据|Java|PHP|IT考证|产品经理|Office|IT在线教育",
+            "icon": "https://logo.clearbit.com/edu.51cto.com",
+            "url": "https://edu.51cto.com/center/wejob/user/index?train_id=898"
+          },
+          {
+            "type": "link",
+            "addDate": 1629558721143,
+            "title": "51CTO学堂-IT培训_IT人充电上51CTO学堂",
+            "icon": "https://logo.clearbit.com/edu.51cto.com",
+            "url": "https://edu.51cto.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1573453377597,
+            "title": "工业和信息化部教育与考试中心",
+            "icon": "https://logo.clearbit.com/www.miiteec.org.cn",
+            "url": "https://www.miiteec.org.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1629559126617,
+            "title": "免费--软考软件设计师视频培训视频课程【共22课时】_软考课程-51CTO学堂",
+            "icon": "https://logo.clearbit.com/edu.51cto.com",
+            "url": "https://edu.51cto.com/course/12621.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1579171334226,
+            "title": "社会考试 / 中小学教师资格考试（NTCE）_北京教育考试院",
+            "icon": "https://logo.clearbit.com/www.bjeea.cn",
+            "url": "https://www.bjeea.cn/html/fxlks/zxxjszgks/"
+          },
+          {
+            "type": "link",
+            "addDate": 1571922725474,
+            "title": "中国计算机技术职业资格网",
+            "icon": "https://logo.clearbit.com/www.ruankao.org.cn",
+            "url": "http://www.ruankao.org.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1626612722807,
+            "title": "NTCE - 中国教育考试网",
+            "icon": "https://logo.clearbit.com/ntce.neea.edu.cn",
+            "url": "http://ntce.neea.edu.cn/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1604384190501,
+        "title": "学习",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1718032853620,
+            "title": "笔记本",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718031175311,
+                "title": "笔记本",
+                "icon": "https://logo.clearbit.com/www.onenote.com",
+                "url": "https://www.onenote.com/notebooks?auth=1&nf=1&fromAR=1"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1701251934999,
+            "title": "论坛",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1582638327006,
+                "title": "V2EX",
+                "icon": "https://logo.clearbit.com/www.v2ex.com",
+                "url": "https://www.v2ex.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1701251824454,
+            "title": "平台",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1568301768983,
+                "title": "中国大学MOOC(慕课)_国家精品课程在线学习平台",
+                "icon": "https://logo.clearbit.com/www.icourse163.org",
+                "url": "https://www.icourse163.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1696687987722,
+                "title": "软件设计师 - 论坛,真题,答案,解析,教程,培训,报名时间,准考证打印,成绩查询",
+                "icon": "https://logo.clearbit.com/www.rkpass.cn",
+                "url": "http://www.rkpass.cn/kemu06.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1701251867142,
+            "title": "算法",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1569494096869,
+                "title": "首页 - 洛谷 | 计算机科学教育新生态",
+                "icon": "https://logo.clearbit.com/www.luogu.org",
+                "url": "https://www.luogu.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1582638392803,
+                "title": "九章算法 - 帮助更多中国人找到好工作，硅谷顶尖IT企业工程师实时在线授课为你传授面试技巧",
+                "icon": "https://logo.clearbit.com/www.jiuzhang.com",
+                "url": "https://www.jiuzhang.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1582638415588,
+                "title": "LintCode 领扣",
+                "icon": "https://logo.clearbit.com/www.lintcode.com",
+                "url": "https://www.lintcode.com/problem/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1701251858227,
+            "title": "题库",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1570454795924,
+                "title": "问答库_做最有用的题库问答学习平台",
+                "icon": "https://logo.clearbit.com/www.asklib.com",
+                "url": "https://www.asklib.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1615486365164,
+            "title": "知识",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1623313037899,
+                "title": "知识地图（知识图谱） - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/107765881"
+              },
+              {
+                "type": "folder",
+                "addDate": 1701251613172,
+                "title": "历史",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1573185112004,
+                    "title": "全历史",
+                    "icon": "https://logo.clearbit.com/www.allhistory.com",
+                    "url": "https://www.allhistory.com/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1701251637949,
+                "title": "摄影",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1570455020764,
+                    "title": "大作首页",
+                    "icon": "https://logo.clearbit.com/www.bigbigwork.com",
+                    "url": "http://www.bigbigwork.com/home"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1604384190508,
+            "title": "Java",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1571102204642,
+                "title": "How2J 的 Java教程",
+                "icon": "https://logo.clearbit.com/how2j.cn",
+                "url": "http://how2j.cn/?p=61135"
+              },
+              {
+                "type": "link",
+                "addDate": 1571974188708,
+                "title": "Java基础(冒泡排序) - 可爱的糖糖 - CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_41679818/article/details/90296399"
+              },
+              {
+                "type": "link",
+                "addDate": 1572012500979,
+                "title": "插入排序法（Java实现） - ZJLOVE的博客 - CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_42857603/article/details/81605124"
+              },
+              {
+                "type": "link",
+                "addDate": 1572185380341,
+                "title": "Java实现堆排序和图解 - Fuzz - CSDN博客",
+                "icon": "https://logo.clearbit.com/blog.csdn.net",
+                "url": "https://blog.csdn.net/qq_36186690/article/details/82505569"
+              },
+              {
+                "type": "link",
+                "addDate": 1578756598363,
+                "title": "SpringBoot_2019权威教程_spring boot_springboot核心篇+springboot整合篇-_雷丰阳_尚硅谷_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                "icon": "https://logo.clearbit.com/www.bilibili.com",
+                "url": "https://www.bilibili.com/video/av38657363"
+              },
+              {
+                "type": "link",
+                "addDate": 1578728875447,
+                "title": "38 个 Java 教程和练手项目列表 - 实验楼",
+                "icon": "https://logo.clearbit.com/www.shiyanlou.com",
+                "url": "https://www.shiyanlou.com/questions/171567/?utm_source=baidu&utm_medium=cpc&utm_campaign=java&utm_term=keywords&renqun_youhua=417274"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1706444282636,
+            "title": "😋(101)开发GO! | 免费找工具_找文档_找资源 | go.YesDev.cn",
+            "icon": "https://logo.clearbit.com/go.yesdev.cn",
+            "url": "http://go.yesdev.cn/#term-15"
+          },
+          {
+            "type": "link",
+            "addDate": 1579096074496,
+            "title": "菜鸟教程 - 学的不仅是技术，更是梦想！",
+            "icon": "https://logo.clearbit.com/www.runoob.com",
+            "url": "https://www.runoob.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1706511912840,
+            "title": "电鸭官方 | 电鸭社区",
+            "icon": "https://logo.clearbit.com/eleduck.com",
+            "url": "https://eleduck.com/categories/14"
+          },
+          {
+            "type": "link",
+            "addDate": 1693794273537,
+            "title": "马士兵教育官网 - IT职业领路人",
+            "icon": "https://logo.clearbit.com/www.mashibing.com",
+            "url": "https://www.mashibing.com/learn_center/course"
+          },
+          {
+            "type": "link",
+            "addDate": 1706444214927,
+            "title": "美团 DevOps 案例学习（互联网公司/传统公司） - Ledge DevOps 知识平台",
+            "icon": "https://logo.clearbit.com/devops.phodal.com",
+            "url": "https://devops.phodal.com/case-study/meituan"
+          },
+          {
+            "type": "link",
+            "addDate": 1700106714577,
+            "title": "培训_Dataguru炼数成金_国内首创逆向收费式网络培训|专注于Hadoop培训及大数据、数据分析、数据库、编程技术、运维自动化等网络逆向培训",
+            "icon": "https://logo.clearbit.com/www.dataguru.cn",
+            "url": "http://www.dataguru.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1702292265894,
+            "title": "首页 - 知乎",
+            "icon": "https://logo.clearbit.com/www.zhihu.com",
+            "url": "https://www.zhihu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1700106718069,
+            "title": "数智资源 - 资源教程下载，人工智能_大数据_云计算_物联网_IT编程资源下载网站",
+            "icon": "https://logo.clearbit.com/www.shuzhiziyuan.com",
+            "url": "http://www.shuzhiziyuan.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1700106710869,
+            "title": "我爱分享网-免费分享网络资源,干货福利,学习教程,程序源码,实用技巧",
+            "icon": "https://logo.clearbit.com/www.52fun.com",
+            "url": "https://www.52fun.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1702893930563,
+            "title": "易采集EasySpider：无代码可视化爬虫/浏览器自动化测试软件",
+            "icon": "https://logo.clearbit.com/www.easyspider.cn",
+            "url": "https://www.easyspider.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1716825658074,
+            "title": "中国15种高含金量证书，你拥有几本？ - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/661225335"
+          },
+          {
+            "type": "link",
+            "addDate": 1702896590944,
+            "title": "coding-interview-university/translations/README-cn.md at main · jwasham/coding-interview-university · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md"
+          },
+          {
+            "type": "link",
+            "addDate": 1706444386252,
+            "title": "GitHub - Jackpopc/CS-Books-Store: 你想要的计算机经典书籍，这里都有！",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Jackpopc/CS-Books-Store?tab=readme-ov-file#2-Python"
+          },
+          {
+            "type": "link",
+            "addDate": 1706769971267,
+            "title": "IT屋-程序员软件开发技术分享社区",
+            "icon": "https://logo.clearbit.com/www.it1352.com",
+            "url": "https://www.it1352.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1579096151227,
+            "title": "w3school 在线教程",
+            "icon": "https://logo.clearbit.com/www.w3school.com.cn",
+            "url": "https://www.w3school.com.cn/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1716610713851,
+        "title": "自媒体",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1716610718864,
+            "title": "公众号",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=244058266"
+          },
+          {
+            "type": "link",
+            "addDate": 1716731179045,
+            "title": "铁秀IRONSHOW的个人空间-铁秀IRONSHOW个人主页-哔哩哔哩视频",
+            "icon": "https://logo.clearbit.com/space.bilibili.com",
+            "url": "https://space.bilibili.com/405067166?spm_id_from=333.788.0.0"
+          },
+          {
+            "type": "link",
+            "addDate": 1716611148377,
+            "title": "小程序",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/wxamp/index/index?token=1790411901&lang=zh_CN"
+          },
+          {
+            "type": "link",
+            "addDate": 1716611176122,
+            "title": "Ashura578的个人空间-Ashura578个人主页-哔哩哔哩视频",
+            "icon": "https://logo.clearbit.com/space.bilibili.com",
+            "url": "https://space.bilibili.com/367252456?spm_id_from=333.1007.0.0"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1644496841841,
+        "title": "百度一下，你就知道",
+        "icon": "https://logo.clearbit.com/www.baidu.com",
+        "url": "https://www.baidu.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718167540581,
+        "title": "有道翻译_文本、文档、网页、在线即时翻译",
+        "icon": "https://logo.clearbit.com/fanyi.youdao.com",
+        "url": "https://fanyi.youdao.com/#/"
+      },
+      {
+        "type": "link",
+        "addDate": 1644678945869,
+        "title": "我的工作台 - Gitee.com",
+        "icon": "https://logo.clearbit.com/gitee.com",
+        "url": "https://gitee.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1693376108778,
+        "title": "讯飞星火认知大模型-AI大语言模型-星火大模型-科大讯飞",
+        "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+        "url": "https://xinghuo.xfyun.cn/desk"
+      },
+      {
+        "type": "link",
+        "addDate": 1693291335247,
+        "title": "AI Code Converter | AI Code Translator | AI Code Generator",
+        "icon": "https://logo.clearbit.com/aicodeconvert.com",
+        "url": "https://aicodeconvert.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1685688097096,
+        "title": "https://chat.openai.com",
+        "icon": "https://logo.clearbit.com/chat.openai.com",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  }
+]
